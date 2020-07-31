@@ -1,0 +1,27 @@
+.result .pct {
+  float:left;
+  height:80px;
+  margin:0;
+  overflow:hidden;
+  padding:0;
+  white-space:nowrap;
+  width:95px;
+  }
+.result .screen-left .pct div {
+  margin:28px 0 0 10px;
+  float: left;
+  }
+.result .loser .pct div {
+  color:#84C3FF;
+  } 
+.result .pct div span {
+  display:inline;
+  font-size:55px;
+  }
+.result .screen-right .pct div {
+  margin:28px 0 0 -8px;
+  float: left;
+  }
+.result-first .pct div {
+  color:#FFFFFF;
+  }
